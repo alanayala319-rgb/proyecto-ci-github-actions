@@ -1,2 +1,3 @@
 # proyecto-ci-github-actions
-Actividad 02 - Pipeline CI con GitHub Actions
+
+[![CI — Node.js](https://github.com/alanayala319-rgb/proyecto-ci-github-actions/actions/workflows/ci.yml/badge.svg?branch=develop)](https://github.com/alanayala319-rgb/proyecto-ci-github-actions/actions/workflows/ci.yml)
